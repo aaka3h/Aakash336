@@ -1,5 +1,10 @@
-Hi, I’m Aakash!
+# Hi, I'm Aakash!
 
-I recently completed my 12th grade and am thrilled to embark on a journey into the world of technology, coding, and development. I’m passionate about acquiring new skills, solving complex problems, and creating impactful projects.
+I'm interested in technology, coding, and software development. I've completed 12th grade and am continuing to build my skills through learning and projects.
 
-Feel free to connect with me at realaakash123@gmail.com. I’m excited about the prospect of growing my skills and contributing to exciting projects.
+I enjoy solving problems, exploring new tools, and creating useful things. I'm interested in connecting with other learners and contributing to projects.
+
+## Connect
+
+- GitHub: [@aaka3h](https://github.com/aaka3h)
+- Email: [realaakash123@gmail.com](mailto:realaakash123@gmail.com)
